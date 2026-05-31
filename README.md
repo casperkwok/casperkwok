@@ -44,7 +44,7 @@
 |---|---|
 | 🎬 **[toonany](https://github.com/casperkwok/toonany)** | AI 漫剧创作助手：小说→剧本→分镜→成片的完整工作流 |
 | 🛰️ **[aura](https://github.com/casperkwok/aura)** | 私人 AI 领域情报中心，从信息搬运到连续洞察 |
-| 🤖 **[claw-code](https://github.com/casperkwok/claw-code)** | 更好的 harness 工具集，正在用 Rust 重写 |
+| 🐾 **danclaw** 🔒 | 多租户、多渠道 AI Agent 平台（持久人设 / 长期记忆 / 自学习）· *private · WIP* |
 | 📄 **[prd-generator](https://github.com/casperkwok/prd-generator)** | Claude Code Skill：通用 PRD 生成（Markdown + Word） |
 | 🐉 **[kali-zsh-theme](https://github.com/casperkwok/kali-zsh-theme)** | Kali Linux 风格的双行 zsh 提示符主题 |
 | 👻 **[ghostty-claude-code-guide](https://github.com/casperkwok/ghostty-claude-code-guide)** | Ghostty + Claude Code 终端环境完全指南（中英双语） |
