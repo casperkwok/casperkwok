@@ -49,6 +49,7 @@
 | 📄 **[prd-generator](https://github.com/casperkwok/prd-generator)** | Claude Code Skill：通用 PRD 生成（Markdown + Word） |
 | 🐉 **[kali-zsh-theme](https://github.com/casperkwok/kali-zsh-theme)** | Kali Linux 风格的双行 zsh 提示符主题 |
 | 👻 **[ghostty-claude-code-guide](https://github.com/casperkwok/ghostty-claude-code-guide)** | Ghostty + Claude Code 终端环境完全指南（中英双语） |
+| ✍️ **[blog](https://github.com/casperkwok/blog)** | 个人博客，用 Remix 3 (beta) + Bun 从零搭建 |
 
 </div>
 
