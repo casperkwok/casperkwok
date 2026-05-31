@@ -67,6 +67,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/casperkwok/casperkwok/output/github-snake-dark.svg" alt="contribution snake" />
+
+</div>
+
 ```console
 ┌──(casper㉿github)-[~]
 └─$ ./contact --connect
