@@ -58,12 +58,20 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=casperkwok&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2DD4A7&icon_color=2DD4A7&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casperkwok&layout=compact&hide_border=true&bg_color=0d1117&title_color=2DD4A7&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=casperkwok&theme=github_dark" alt="profile summary" width="800" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=casperkwok&hide_border=true&background=0d1117&stroke=2DD4A7&ring=2DD4A7&fire=2DD4A7&currStreakLabel=2DD4A7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=casperkwok&theme=github_dark" alt="repos per language" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=casperkwok&theme=github_dark" alt="most commit language" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=casperkwok&hide_border=true&background=0d1117&stroke=2DD4A7&ring=2DD4A7&fire=2DD4A7&currStreakLabel=2DD4A7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=casperkwok&bg_color=0d1117&color=2DD4A7&line=2DD4A7&point=ffffff&area=true&hide_border=true" alt="activity graph" width="800" />
 
 </div>
 
